@@ -108,13 +108,11 @@ celerybeat.pid
 .env
 .venv
 env/
-venv/
 ENV/
 env.bak/
 venv.bak/
 pythonenv*
 env
-venv
 
 # Spyder project settings
 .spyderproject
@@ -142,7 +140,7 @@ dmypy.json
 
 # VS code
 .vscode
-.idea/
+
 
 
 # code
@@ -156,11 +154,6 @@ resources
 .secrets.*
 # Redis artifact
 dump.rdb
-w_etygdv6eazaa/files/files
-dataset
-evaluation
-config/dev.yaml
-notebooks
 evalml_debug.log
 digital.zip
 main.py
